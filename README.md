@@ -1,1 +1,1 @@
-# AI-practical-solution
+# AI practical solution
